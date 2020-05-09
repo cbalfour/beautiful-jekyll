@@ -1,16 +1,30 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a linux and open-source software enthusiast living in Cape Town,
+South Africa.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I work for the [University of Cape Town](http://www.uct.ac.za) (UCT). I am
+currently a Systems Administrator in the [Department of Computer
+Science](https://www.cs.uct.ac.za) primarily looking after infrastructure
+design and running a large-ish fleet of linux servers and workstations.
 
-What else do you need?
+Prior to that, I worked for [Information and Communication Technology
+Services](http://www.icts.uct.ac.za) (ICTS) as Technical Specialist in the
+Network Infrastructure team. This involved doing network design and managing
+unix servers and, predominantly, Cisco switches and routers.
 
-### my history
+I am a founding member of the [Western Cape Linux Users’
+Group](http://www.clug.org.za) (CLUG) and served as the Secretary for a number of
+years. I am also a co-founder and core member of the UCT [Linux Enthusiasts’
+Group](http://www.leg.uct.ac.za) (LEG).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My professional interests are predominantly in the areas of unix - especially
+linux, open-source software, programming - primarily in python these days,
+task automation and configuration management using puppet.
+
+In my spare time I enjoy hiking, swimming, gardening, reading and
+fiddling-around-with electronics and wooodwork.
